@@ -1,0 +1,5 @@
+{
+  "name": "Real-time Sentiment Analyzer",
+  "description": "An application that analyzes the sentiment of text in real-time as you type, using the Gemini API. It displays the sentiment (Positive, Negative, Neutral) and a corresponding score.",
+  "requestFramePermissions": []
+}
