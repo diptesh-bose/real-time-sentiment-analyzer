@@ -16,16 +16,16 @@ An application that analyzes the sentiment of text in real-time as you type, usi
 Here's a glimpse of the Real-time Sentiment Analyzer in action:
 
 **Screenshot 1: Positive Sentiment Example**
-`![Positive Sentiment Example](product_screenshot/001_Positive.png)`
-*(Description: Describe what this screenshot shows, e.g., "The application detecting positive sentiment in the entered text.")*
+![Positive Sentiment Example](product_screenshot/001_Positive.png)
+*The application detecting positive sentiment in the entered text, showing a green color indicator and positive emoji.*
 
 **Screenshot 2: Neutral Sentiment Example**
-`![Neutral Sentiment Example](product_screenshot/002_Neutral.png)`
-*(Description: Describe what this screenshot shows, e.g., "The application detecting neutral sentiment.")*
+![Neutral Sentiment Example](product_screenshot/002_Neutral.png)
+*The application detecting neutral sentiment, displaying a balanced score and neutral visual indicators.*
 
 **Screenshot 3: Negative Sentiment Example**
-`![Negative Sentiment Example](product_screenshot/003_Negative.png)`
-*(Description: Describe what this screenshot shows, e.g., "The application detecting negative sentiment and displaying the corresponding feedback.")*
+![Negative Sentiment Example](product_screenshot/003_Negative.png)
+*The application detecting negative sentiment and displaying the corresponding red color feedback and negative emoji.*
 
 ## For Users: How to Use
 
